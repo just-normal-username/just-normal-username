@@ -29,7 +29,7 @@ My journey into code started with **competitive programming** in high school ([M
 
 ### 🤖 1. Molecubes — Modular Robotic Arm
 <div align="center">
-  <img src="https://raw.githubusercontent.com/EmbeddedDreamTeam/molecubes/refs/heads/main/assets/logo.png" alt="Molecubes Logo" width="250">
+  <img src="https://raw.githubusercontent.com/EmbeddedDreamTeam/molecubes/refs/heads/main/assets/logo.png" alt="Molecubes Logo" width="600">
 </div>
 
 A modular robotic arm consisting of interconnected, 3D-printed cubes. Each module contains a servomotor and magnetic connectors for hot-swappable assembly and rapid reconfiguration.
