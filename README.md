@@ -2,8 +2,6 @@
 
 My journey into code started with **competitive programming** in high school ([My OII Stats](https://stats.olinfo.it/contestant/a471d9604e93bef14b7948d1b7f561ec)), and now I am pursuing a degree in Computer Science at **UniTn** (University of Trento). 
 
-I live at the intersection of software engineering, embedded systems, and digital creation.
-
 ---
 
 ## 🚀 About Me & Technical Interests
