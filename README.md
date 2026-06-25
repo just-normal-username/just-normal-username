@@ -21,7 +21,7 @@ My journey into code started with **competitive programming** in high school ([M
 
 * 📸 **Photography & Videomaking:** I love capturing visual stories. You can check my photography profile on Instagram [@photogra.tia_](https://www.instagram.com/photogra.tia_/) and my early filmmaking experiments on [YouTube](https://www.youtube.com/@just4k137) 📷 *Sony a6500 shooter.*
 * 🎵 **Music:** My friends say I have a "particular" music taste. Compare yours with mine here: [MusicTaste Space](https://musictaste.space/request/neatgoose30).
-* 🏂 **Sports:** Ex BMX rider, now I like riding a MTB or skiing down the Alps.
+* 🏂 **Sports:** Ex BMX rider, now I enjoy riding my MTB or skiing down the Alps.
 
 ---
 
